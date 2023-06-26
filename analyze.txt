@@ -9,3 +9,4 @@ youtube.com. - протокол https - https://disk.yandex.ru/i/byNnAqPBKlCgSA
 Википедия до изменений - https://disk.yandex.ru/i/8krb15DjQwu4Yw
 Википедия после изменений - https://disk.yandex.ru/i/Ppfbbst413DsZg
 
+Прототип сайта - https://wireframe.cc/pro/edit/666519
